@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: white;
+  
+}
+.categories{
+  display: flex;
+  padding: 20px;
+  gap: 20px;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.category{
+  padding: 10px 20px;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+
+
+}
+.active{
+  background-color: blanchedalmond;
+  color: black;
+
+}
+.active:hover{
+  background-color: rgb(231, 216, 194);
+}
+
+.active{
+
+  
+}
