@@ -4,6 +4,7 @@
   width: 100%;
   background-color: black;
   color: white;
+  padding-bottom: 3rem;
 }
 .categories {
   display: flex;
@@ -33,14 +34,14 @@
   color: red;
 }
 .loading{
-  color: yellow;
+  color: rgb(0, 42, 255);
   font-weight: 900;
-
 }
+
 .jokes {
   background-color: blanchedalmond;
   color: black;
-  width: 50vw;
+  width: 40vw;
   aspect-ratio: 1/1;
   height: auto;
   border-radius: 20px;
